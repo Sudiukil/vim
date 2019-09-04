@@ -38,9 +38,9 @@ map <C-space> :NERDTreeToggle<CR>
 map <leader>ff :ALEFix<CR>
 
 " Vim config
-map <leader>, :tabedit ~/.vimrc<CR>
-map <leader>. :tabedit ~/.vimrc.mappings<CR>
-map <F5> :source ~/.vimrc<CR>
+map <leader>, :tabedit ~/.vim/vimrc<CR>
+map <leader>. :tabedit ~/.vim/vimrc.mappings<CR>
+map <F5> :source ~/.vim/vimrc<CR>
 
 " Other
 map <leader>c :set cursorline!<Bar>set cursorcolumn!<CR>

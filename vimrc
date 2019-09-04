@@ -49,7 +49,7 @@ set splitbelow " Same but bellow for horizontal
 set re=1 " Use old regex engine (more efficient in some cases, such as Ruby)
 
 " Mappings
-source ~/vim/mappings
+source ~/.vim/mappings
 
 " fzf config
 set rtp+=~/.vim/pack/git-plugins/start/fzf
