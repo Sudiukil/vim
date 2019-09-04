@@ -1,0 +1,39 @@
+[submodule "pack/git-plugins/start/ale"]
+	path = pack/git-plugins/start/ale
+	url = https://github.com/w0rp/ale
+[submodule "pack/git-plugins/start/editorconfig-vim"]
+	path = pack/git-plugins/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/git-plugins/start/fzf"]
+	path = pack/git-plugins/start/fzf
+	url = https://github.com/junegunn/fzf
+[submodule "pack/git-plugins/start/gruvbox"]
+	path = pack/git-plugins/start/gruvbox
+	url = https://github.com/morhetz/gruvbox
+[submodule "pack/git-plugins/start/nerdtree"]
+	path = pack/git-plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/git-plugins/start/vim-airline"]
+	path = pack/git-plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/git-plugins/start/vim-commentary"]
+	path = pack/git-plugins/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "pack/git-plugins/start/vim-fugitive"]
+	path = pack/git-plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/git-plugins/start/vim-gitgutter"]
+	path = pack/git-plugins/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/git-plugins/start/vim-markdown-preview"]
+	path = pack/git-plugins/start/vim-markdown-preview
+	url = https://github.com/JamshedVesuna/vim-markdown-preview
+[submodule "pack/git-plugins/start/vim-multiple-cursors"]
+	path = pack/git-plugins/start/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors
+[submodule "pack/git-plugins/start/vim-wakatime"]
+	path = pack/git-plugins/start/vim-wakatime
+	url = https://github.com/wakatime/vim-wakatime
+[submodule "pack/git-plugins/start/yats.vim"]
+	path = pack/git-plugins/start/yats.vim
+	url = https://github.com/HerringtonDarkholme/yats.vim
