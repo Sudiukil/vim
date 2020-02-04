@@ -39,7 +39,7 @@ map <leader>ff :ALEFix<CR>
 
 " Vim config
 map <leader>, :tabedit ~/.vim/vimrc<CR>
-map <leader>. :tabedit ~/.vim/vimrc.mappings<CR>
+map <leader>. :tabedit ~/.vim/mappings<CR>
 map <F5> :source ~/.vim/vimrc<CR>
 
 " Other
