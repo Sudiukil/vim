@@ -31,9 +31,6 @@
 [submodule "pack/git-plugins/start/vim-multiple-cursors"]
 	path = pack/git-plugins/start/vim-multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors
-[submodule "pack/git-plugins/start/vim-wakatime"]
-	path = pack/git-plugins/start/vim-wakatime
-	url = https://github.com/wakatime/vim-wakatime
 [submodule "pack/git-plugins/start/yats.vim"]
 	path = pack/git-plugins/start/yats.vim
 	url = https://github.com/HerringtonDarkholme/yats.vim
