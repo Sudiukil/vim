@@ -34,3 +34,6 @@
 [submodule "pack/git-plugins/start/yats.vim"]
 	path = pack/git-plugins/start/yats.vim
 	url = https://github.com/HerringtonDarkholme/yats.vim
+[submodule "pack/git-plugins/start/vim-monokai-pro"]
+	path = pack/git-plugins/start/vim-monokai-pro
+	url = https://github.com/phanviet/vim-monokai-pro
