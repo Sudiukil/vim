@@ -1,6 +1,7 @@
 " Colors config
 set background=dark
-colorscheme gruvbox
+set termguicolors
+colorscheme monokai_pro
 syntax on " Syntax highlighting
 
 " Tabs/spaces config
