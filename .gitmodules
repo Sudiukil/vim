@@ -1,0 +1,18 @@
+[submodule "pack/git/start/vim-airline"]
+	path = pack/git/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/git/start/vim-airline-themes"]
+	path = pack/git/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "pack/git/start/vim-commentary"]
+	path = pack/git/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "pack/git/start/vim-gitgutter"]
+	path = pack/git/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/git/start/vim-monokai-pro"]
+	path = pack/git/start/vim-monokai-pro
+	url = https://github.com/phanviet/vim-monokai-pro
+[submodule "pack/git/start/vim-visual-multi"]
+	path = pack/git/start/vim-visual-multi
+	url = https://github.com/mg979/vim-visual-multi
