@@ -1,3 +1,6 @@
+"Before I get insane
+set belloff=all
+
 " Colors config
 set background=dark
 set termguicolors
@@ -51,8 +54,27 @@ let g:airline_theme = 'base16_monokai'
 packloadall
 silent! helptags ALL
 
-" FZF
-set rtp+=~/.opt/fzf
+" Mappings
+let mapleader = ','
 
-" Mappings (should be kept last to override any conflicting default/plugin mappings)
-source ~/.vim/mappings
+" Global
+map <C-w> :close<CR>
+
+" Search
+map <leader>/ :nohlsearch<CR>
+
+" Tabs
+map <C-t> :tabnew<CR>
+map <S-left> :tabprev<CR>
+map <S-right> :tabnext<CR>
+
+" Windows
+map <C-v> :vsplit<CR>
+map <C-h> :split<CR>
+map <C-left> :wincmd h<CR>
+map <C-right> :wincmd l<CR>
+map <C-up> :wincmd k<CR>
+map <C-down> :wincmd j<CR>
+
+" FZF
+map <C-p> :FZF<CR>
