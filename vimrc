@@ -52,7 +52,7 @@ packloadall
 silent! helptags ALL
 
 " FZF
-set rtp+=~/.opt/fzf
+source /usr/share/doc/fzf/examples/fzf.vim
 
 " Mappings (should be kept last to override any conflicting default/plugin mappings)
 source ~/.vim/mappings
