@@ -52,7 +52,7 @@ packloadall
 silent! helptags ALL
 
 " FZF
-source /usr/share/doc/fzf/examples/fzf.vim
+source /usr/share/vim/vimfiles/plugin/fzf.vim
 
 " Mappings (should be kept last to override any conflicting default/plugin mappings)
 source ~/.vim/mappings
